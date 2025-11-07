@@ -66,6 +66,9 @@ plot2d3('gnn',r);
 
 
 # CALCULATION
+![WhatsApp Image 2025-11-07 at 11 12 41_b96ef503](https://github.com/user-attachments/assets/242305b5-005c-4c50-bdb2-0087e561e4e4)
+![WhatsApp Image 2025-11-07 at 11 12 51_a61be895](https://github.com/user-attachments/assets/7a6d58bd-caa1-4686-8867-228d3f81ac64)
+![WhatsApp Image 2025-11-07 at 11 13 03_84309f04](https://github.com/user-attachments/assets/8f207182-26a1-43e9-8212-6287dd11b3ca)
 
 # RESULT:
 Thus the mean , variance and cross correlation are executed in Scilab and output is verified.
