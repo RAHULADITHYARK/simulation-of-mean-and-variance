@@ -61,6 +61,9 @@ r=corr(x,y,n1);
 plot2d3('gnn',r);
 ```
 # OUTPUT
+<img width="944" height="1301" alt="image" src="https://github.com/user-attachments/assets/dee88a48-c3c6-4f18-b6e9-27acb2a0b70c" />
+<img width="1159" height="873" alt="image" src="https://github.com/user-attachments/assets/33058939-7606-47cd-9894-f4fa2744d6a5" />
+
 
 # CALCULATION
 
